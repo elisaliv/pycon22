@@ -60,7 +60,7 @@
 
 ### PM
 - 14:30 **Python & Friends**: Continuous documentation for your Python code
-  (Anastasiia Tymoshchuk) / **PyDaya**: How to imprison a minotaur: mazes
+  (Anastasiia Tymoshchuk) / **PyData**: How to imprison a minotaur: mazes
   building methodologies (Juna Salviati) / **PyWeb**: Test sana in codice sano
   (Antonio Mustich, Davide Ria) 
 - 15:15 **Python & Friends II**: Exploring patterns to debug your life (Miriam
